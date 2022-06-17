@@ -5,4 +5,4 @@ Keyword Extraction using some automatic keyword extraction algorithms such as
 - Gensim implementation of Text-Rank
 - Yet Another Keyword Extractor (YAKE)
 
-Dataset is provided in the resources folder
+Dataset is provided in the resources folder - papers.csv
